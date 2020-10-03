@@ -869,7 +869,7 @@ const DUMMY_SubjectS = const [
     ],
     title: 'DEVELOPMENT OF CONTEMPORARY ARCHITECTURE',
     affordability: Affordability.Affordable,
-    complexity: Complexity.Easy,
+    complexity: Complexity.Hard,
     imageUrl:
         'https://ciptabaliarchitect.com/wp-content/uploads/2019/07/Contemporary-Architecture-1.jpg',
     resourceUrl: 'https://drive.google.com/drive/folders/15JVsD_FUB49wGbG73FinoTZy7wgxMe88',
@@ -976,7 +976,7 @@ const DUMMY_SubjectS = const [
     categories: [
       'c5',
     ],
-    title: 'DESIGN OF RC STRUCTUREE',
+    title: 'DESIGN OF RC STRUCTURES',
     affordability: Affordability.Pricey,
     complexity: Complexity.Medium,
     imageUrl:
@@ -1012,7 +1012,7 @@ const DUMMY_SubjectS = const [
     categories: [
       'c5',
     ],
-    title: 'SPECIFICATION',
+    title: 'SPECIFICATIONS',
     affordability: Affordability.Affordable,
     complexity: Complexity.Easy,
     imageUrl:
